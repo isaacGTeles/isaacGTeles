@@ -1,5 +1,8 @@
 ### Hello i'm isaac gabriel 👋
 
+![snake gif](https://github.com/isaacGTeles/isaacGTeles/blob/output/github-contribution-grid-snake.gif)
+
+
 - 🔭 Atualmente trabalho com administração.
 - 🌱 Estudando desenvolvimento Web
 
