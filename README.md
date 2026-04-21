@@ -1,76 +1,90 @@
 # 👋 Olá, eu sou o Isaac Teles
 ![snake gif](https://github.com/isaacGTeles/isaacGTeles/blob/output/github-contribution-grid-snake.gif)
 
-##
-  
-<div>
-  <a href="#"><img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a>
-  <a href="#"><img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="#"><img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-  <a href="#"><img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-  <a href="#"><img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-  <a href="#"><img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
-  <a href="#"><img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a>
-</div>
 
-
-
-💻 Desenvolvedor Fullstack
-🚀 Construindo aplicações completas (frontend + backend)
-🎯 Em busca de oportunidade como desenvolvedor júnior / estágio
+💻 Desenvolvedor Fullstack focado em criar aplicações web modernas e escaláveis.  
+🚀 Transformando ideias em sistemas completos (frontend + backend).  
+🎯 Buscando oportunidade como desenvolvedor júnior / estágio.
 
 ---
 
 ## 🧠 Tecnologias
 
 ### 🚀 Frontend
+<div style="display: flex; gap: 12px;">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+</div>
 
-* React
-* JavaScript
-* HTML & CSS
-* Figma
+---
 
 ### ⚙️ Backend
+<div style="display: flex; gap: 12px;">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+</div>
 
-* Node.js
-* Express
-* Java
-* PHP
-* JWT
+---
 
 ### 🗄️ Banco de dados
+<div style="display: flex; gap: 12px;">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</div>
 
-* Postgres
-* MySQL
+---
 
 ### 🛠️ Ferramentas
-
-* Git & GitHub
-* Postman.
+<div style="display: flex; gap: 12px;">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+</div>
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 🔗 API de Cadastro de Voluntários
+### 🚀 API Orkut
+Backend inspirado na antiga rede social Orkut, com foco em autenticação, usuários e estrutura de rede social.
 
-API REST para gerenciamento de voluntários com operações CRUD.
+🔗 Repositório: https://github.com/isaacGTeles/api-orkut
 
-### 🔗 Sistema de Academia
+---
 
-Aplicação fullstack para gerenciamento de alunos e dados.
+### 💡 Projeto MVP
+Aplicação fullstack MVP com foco em validação de ideia e estrutura base de produto real.
 
-👉 Em constante evolução com novas funcionalidades como autenticação e deploy.
+🔗 Repositório: https://github.com/isaacGTeles/projeto_MVP
+
+---
+
+⚙️ Ambos os projetos estão em evolução contínua, com melhorias de arquitetura, autenticação e novas funcionalidades.
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacGTeles&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacGTeles&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: https://www.linkedin.com/in/isaac-gabriel-4b544a240/
-* Email: isaac.gabriel1999@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/isaac-gabriel-4b544a240/
+- 📧 Email: isaac.gabriel1999@gmail.com
 
 ---
 
 ## 🚀 Objetivo
 
-Evoluir como desenvolvedor fullstack, construindo sistemas reais e escaláveis.
+Evoluir como desenvolvedor fullstack construindo sistemas reais, escaláveis e com impacto.
